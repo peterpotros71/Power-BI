@@ -1,0 +1,3 @@
+# Description
+
+This course introduces you to new DAX functions and its many use cases. First of all, you expand your core DAX knowledge by learning how to write logical functions. Secondly, you’ll discover how you can write DAX functions for row-level security (RLS) purposes and how to use DAX to manipulate tables and create nested functions. Those time-intelligence quick measures will be building themselves before you know it!

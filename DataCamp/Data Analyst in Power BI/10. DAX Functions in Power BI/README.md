@@ -1,0 +1,3 @@
+# Description
+
+DAX, or Data Analysis eXpressions, is a formula language used in Microsoft Power BI to create calculated columns, measures, and custom tables. Once mastered, DAX gives you powerful control over visuals and reports, allowing for better performance and more flexibility. This course covers the core concepts such as row query and filter context, with exercises focusing on filtering, counting, ranking, and iterating functions.

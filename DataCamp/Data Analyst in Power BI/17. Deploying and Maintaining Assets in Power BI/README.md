@@ -1,0 +1,3 @@
+# Description
+
+Learn how to deploy and maintain assets in Power BI. Through hands-on exercises, you’ll get to grips with the Power BI Service interface and key elements in it like workspaces. You’ll learn how to securely report access by managing access to datasets, implementing row-level security, or applying sensitivity labels to prevent unauthorized data re-use or exfiltration. You’ll also discover how to promote and certify content in Power BI before learning how to save time by subscribing to reports and setting up data alerts—making it easy to keep on top of changes to data in your reports.
