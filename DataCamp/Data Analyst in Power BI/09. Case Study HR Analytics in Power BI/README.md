@@ -7,3 +7,14 @@ You’ll carry out exploratory data analysis and will use DAX to help build powe
 
 
 We’ll finalize the case study by making design changes to our report that provides a clean, branded design
+
+![image](https://github.com/user-attachments/assets/e8c28580-13d6-43b1-a8ee-e44b76fd5b13)
+
+![image](https://github.com/user-attachments/assets/5111bf05-2c39-423d-ac81-1887392158b2)
+
+![image](https://github.com/user-attachments/assets/5f596862-758c-45fd-a5b1-2768245332b3)
+
+![image](https://github.com/user-attachments/assets/727fba1a-5e2c-4c37-a604-957c472efa1a)
+
+
+
