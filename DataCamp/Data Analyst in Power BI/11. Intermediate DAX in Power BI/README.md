@@ -11,6 +11,9 @@ This course introduces you to new DAX functions and its many use cases. First of
 
 ![image](https://github.com/user-attachments/assets/2961ce10-e610-4549-aba6-412f690efd97)
 
+![image](https://github.com/user-attachments/assets/fe98641f-c986-40da-aae1-5e103e26a8b1)
+
+
 
 
 
